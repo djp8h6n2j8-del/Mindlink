@@ -1,0 +1,8 @@
+
+{
+  "name": "Mindlink - Twój Cyfrowy Bliźniak Pamięci",
+  "description": "Zaawansowany agent AI pełniący funkcję zewnętrznej pamięci i rozszerzenia ludzkiego sposobu myślenia. Analizuje notatki, rozmowy i pomysły, budując spersonalizowany graf wiedzy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
